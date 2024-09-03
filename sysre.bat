@@ -1,5 +1,5 @@
 @echo off
-REM Restart the VPS to apply changes
+
 
 shutdown /r /f /t 0
 
